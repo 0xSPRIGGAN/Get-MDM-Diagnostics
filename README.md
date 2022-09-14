@@ -11,4 +11,4 @@ Sometimes, when adding a refurbished device to an Intune tenant, an error will b
 
 1. Make sure `run.bat` and `Get-DiagnosticsReport.ps1` are in the same directory.
 2. Double click `run.bat`
-
+3. Profit
